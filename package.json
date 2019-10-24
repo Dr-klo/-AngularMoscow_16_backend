@@ -1,7 +1,7 @@
 {
   "name": "backend",
   "version": "1.0.0",
-  "description": "backend",
+  "description": "AngularMoscow #16 backend",
   "main": "out/index.js",
   "scripts": {
     "start": "node $NODE_DEBUG_OPTION out/backend/src/index.js",
